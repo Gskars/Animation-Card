@@ -9,6 +9,7 @@ HOSPEDAGEM DO SITE : https://melodic-gaufre-b5363e.netlify.app/
 - HTML
 - CSS
 - GIT E GIHUB
+- JAVASCRIPT
 # Contatos:
 - Tel: (19)983006268
 - Email: gscardazi@gmail.com
