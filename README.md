@@ -1,7 +1,7 @@
 # Animation-Card
 PROJETO DESENVOLVIDO PARA MOSTRAR AS FASES DA MISSÃO "ARTEMIS" DA "NASA"
 
-![pd](pd.png) 
+![pd](pd.mp4) 
 
 HOSPEDAGEM DO SITE : https://melodic-gaufre-b5363e.netlify.app/
 # Tecnologias :
