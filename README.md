@@ -11,7 +11,7 @@ HOSPEDAGEM DO SITE : https://gskars.github.io/Animation-Card/
 - GIT E GIHUB
 - JAVASCRIPT
 # Contatos:
-- Email: gscardazi@gmail.com
+- Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
 
