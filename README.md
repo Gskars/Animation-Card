@@ -1,5 +1,5 @@
 # Animation-Card
-P
+
 <h3>Projeto desenvolvido para mostrar as fases da missão "Artemis" da "NASA"</h3>
 
 
